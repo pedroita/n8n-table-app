@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://chemall.com.br/api';
+const API_BASE_URL = 'https://chemall.com.br/';
 const N8N_BASE_URL = 'https://pedroitalocampos11.app.n8n.cloud/webhook';
 
 export const fetchAndDecryptData = async () => {
